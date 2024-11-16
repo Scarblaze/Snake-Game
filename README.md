@@ -1,0 +1,1 @@
+A standard snake game where the snake grows after eating a fruit while moving within the given boundary constraints. The fruit calls a function such that it spawns randomly in the given coordinate space.
